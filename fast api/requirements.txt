@@ -1,0 +1,6 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+google-cloud-aiplatform==1.25.0
+pyjwt==2.7.0
+prometheus-fastapi-instrumentator==6.0.0
+openai
